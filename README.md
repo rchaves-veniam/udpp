@@ -1,2 +1,2 @@
-# udpp
-TCP to UDP proxy
+# UDP proxy (udpp)
+TCP to UDP proxy.
